@@ -2,6 +2,7 @@
 we gon die v1
 """
 
+import re
 import sys
 import os
 
@@ -31,7 +32,14 @@ while exit == 0:
         
     elif command == "add":
         word = input("add word > ")
-        words.append(word.lower())
+        if word not in words:
+            words.append(word.lower())
+        else:
+            print("already in database. doing nothing.")
+
+    elif command == "clear":
+        os.system('cls' if os.name == 'nt' else 'clear')
+        print("cheater is online.\n")
     
     elif command in ["exit", "quit"]:
         resort(words)
@@ -39,7 +47,17 @@ while exit == 0:
         sys.exit("goodbye!")
         
     else:
-        size = int(command)
-        found = find(words, size)
-        for word in found:
-            print("", word)
+        try:
+            size = int(command)
+            found = find(words, size)
+            for word in found:
+                print("", word)
+        except:
+            try:
+                command = command.replace("?", ".")
+                for word in words:
+                    if re.fullmatch(command, word) != None:
+                        print(word)
+                pass
+            except:
+                pass
