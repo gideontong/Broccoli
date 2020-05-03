@@ -5,6 +5,7 @@ die
 dog
 fog
 hug
+kfc
 mug
 nut
 pub
@@ -16,6 +17,7 @@ boil
 bowl
 corn
 cuba
+dead
 duel
 east
 farm
@@ -28,6 +30,7 @@ meal
 nike
 oreo
 sand
+scar
 soap
 stab
 tank
@@ -45,9 +48,11 @@ cliff
 cloak
 coach
 emoji
+fence
 giant
 giant
 glass
+globe
 graph
 hairy
 hippo
@@ -56,6 +61,7 @@ mafia
 night
 pasta
 pound
+prawn
 river
 scent
 slump
@@ -64,12 +70,14 @@ south
 steam
 swamp
 swing
+tails
 toast
 tower
 tumor
 vomit
 xerox
 border
+bridge
 bumper
 casino
 cheese
@@ -79,26 +87,34 @@ earwax
 faucet
 hawaii
 israel
+magnet
+medusa
 norway
+repeat
 rubber
 saliva
 tetris
+tongue
 uranus
 voodoo
 wizard
+zipper
 zombie
 alcohol
+america
 balance
 coconut
 cowbell
 creeper
 croatia
 diploma
+dracula
 eyelash
 garbage
 germany
 horizon
 hot dog
+ladybug
 mailbox
 notepad
 octagon
@@ -112,6 +128,8 @@ twitter
 ukulele
 whistle
 bagpipes
+baguette
+bracelet
 collapse
 crossbow
 cucumber
@@ -122,6 +140,8 @@ manicure
 mountain
 nostrils
 notebook
+six pack
+skeleton
 sombereo
 tentacle
 cat woman
@@ -154,6 +174,7 @@ gold chain
 high heels
 lawn mower
 punishment
+rainforest
 red carpet
 scooby doo
 skyscraper
@@ -169,10 +190,15 @@ motherboard
 netherlands
 north korea
 observatory
+photo frame
 playstation
+temperature
+underweight
 eiffel tower
+fire hydrant
 jesus christ
 mickey mouse
+mr. meeseeks
 homer simpson
 robbie rotton
 tennis racket
