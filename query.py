@@ -57,7 +57,7 @@ while exit == 0:
                 command = command.replace("?", ".")
                 for word in words:
                     if re.fullmatch(command, word) != None:
-                        print(word)
+                        print("", word)
                 pass
             except:
                 pass
