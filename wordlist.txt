@@ -13,10 +13,12 @@ pub
 sky
 ufo
 barn
+bear
 beef
 blue
 boil
 bowl
+cave
 coal
 corn
 cuba
@@ -26,6 +28,7 @@ duel
 east
 farm
 fort
+hand
 ikea
 king
 kiss
@@ -46,10 +49,14 @@ thug
 trap
 wasp
 well
+wolf
 xbox
+yawn
 apple
+arrow
 black
 blimp
+blood
 chest
 cliff
 cliff
@@ -62,6 +69,7 @@ giant
 glass
 globe
 graph
+grass
 hairy
 hippo
 house
@@ -77,6 +85,7 @@ river
 scent
 slump
 smile
+sonic
 south
 steam
 swamp
@@ -88,12 +97,14 @@ tumor
 vomit
 xerox
 africa
+bleach
 border
 bridge
 bumper
 casino
 cheese
 chrome
+church
 cousin
 earwax
 faucet
@@ -104,10 +115,12 @@ medusa
 norway
 planet
 poster
+puddle
 repeat
 ribbon
 rubber
 saliva
+spiral
 tetris
 tomato
 tongue
@@ -137,10 +150,13 @@ mailbox
 notepad
 octagon
 pac man
+pac-man
 panther
 present
 reality
+reptile
 romania
+sweater
 thunder
 torpedo
 twitter
@@ -149,6 +165,7 @@ whistle
 bagpipes
 baguette
 bracelet
+broccoli
 campfire
 collapse
 crossbow
@@ -208,6 +225,7 @@ teddy bear
 bell pepper
 bottle flip
 butt cheeks
+coffee shop
 donald duck
 firefighter
 gravedigger
@@ -231,4 +249,5 @@ tennis racket
 traffic light
 angelina jolie
 captain america
+winnie the pooh
 statue of liberty
