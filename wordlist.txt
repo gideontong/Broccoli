@@ -1,4 +1,5 @@
 arm
+bag
 bow
 box
 die
@@ -18,6 +19,7 @@ bowl
 corn
 cuba
 dead
+dock
 duel
 east
 farm
@@ -61,6 +63,7 @@ graph
 hairy
 hippo
 house
+kneel
 mafia
 night
 pasta
@@ -139,6 +142,7 @@ whistle
 bagpipes
 baguette
 bracelet
+campfire
 collapse
 crossbow
 cucumber
@@ -149,6 +153,7 @@ manicure
 mountain
 nostrils
 notebook
+scotland
 six pack
 skeleton
 sombereo
@@ -184,6 +189,7 @@ flying pig
 gold chain
 high heels
 lawn mower
+piggy bank
 punishment
 rainforest
 red carpet
@@ -215,4 +221,5 @@ robbie rotton
 tennis racket
 traffic light
 angelina jolie
+captain america
 statue of liberty
