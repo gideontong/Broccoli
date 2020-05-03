@@ -5,8 +5,10 @@ die
 dog
 fog
 hug
+mug
 nut
 pub
+sky
 ufo
 barn
 blue
@@ -20,6 +22,7 @@ farm
 fort
 ikea
 kiss
+knee
 lock
 meal
 nike
@@ -55,12 +58,14 @@ pasta
 pound
 river
 scent
+slump
 smile
 south
 steam
 swamp
 swing
 toast
+tower
 tumor
 vomit
 xerox
@@ -99,6 +104,7 @@ notepad
 octagon
 pac man
 panther
+present
 reality
 romania
 torpedo
@@ -108,6 +114,7 @@ whistle
 bagpipes
 collapse
 crossbow
+cucumber
 facebook
 homeless
 iron man
@@ -164,7 +171,9 @@ north korea
 observatory
 playstation
 eiffel tower
+jesus christ
 mickey mouse
+homer simpson
 robbie rotton
 tennis racket
 traffic light
