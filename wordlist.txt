@@ -23,12 +23,15 @@ east
 farm
 fort
 ikea
+king
 kiss
 knee
 lock
 meal
 nike
 oreo
+pink
+ramp
 sand
 scar
 soap
@@ -37,6 +40,7 @@ tank
 thor
 thug
 trap
+wasp
 well
 xbox
 apple
@@ -76,6 +80,7 @@ tower
 tumor
 vomit
 xerox
+africa
 border
 bridge
 bumper
@@ -90,10 +95,13 @@ israel
 magnet
 medusa
 norway
+planet
 repeat
+ribbon
 rubber
 saliva
 tetris
+tomato
 tongue
 uranus
 voodoo
@@ -115,6 +123,7 @@ germany
 horizon
 hot dog
 ladybug
+library
 mailbox
 notepad
 octagon
@@ -155,6 +164,7 @@ eyeshadow
 lady gaga
 minecraft
 motorbike
+nosebleed
 peppa pig
 price tag
 saxophone
@@ -164,6 +174,7 @@ snowflake
 stone age
 toothpick
 treehouse
+vegetable
 antarctica
 cheesecake
 chest hair
