@@ -13,9 +13,11 @@ pub
 sky
 ufo
 barn
+beef
 blue
 boil
 bowl
+coal
 corn
 cuba
 dead
@@ -64,6 +66,8 @@ hairy
 hippo
 house
 kneel
+knife
+llama
 mafia
 night
 pasta
@@ -99,6 +103,7 @@ magnet
 medusa
 norway
 planet
+poster
 repeat
 ribbon
 rubber
@@ -114,6 +119,7 @@ zombie
 alcohol
 america
 balance
+biscuit
 coconut
 cowbell
 creeper
@@ -135,6 +141,7 @@ panther
 present
 reality
 romania
+thunder
 torpedo
 twitter
 ukulele
@@ -153,6 +160,7 @@ manicure
 mountain
 nostrils
 notebook
+sandwich
 scotland
 six pack
 skeleton
@@ -218,6 +226,7 @@ mickey mouse
 mr. meeseeks
 homer simpson
 robbie rotton
+swimming pool
 tennis racket
 traffic light
 angelina jolie
