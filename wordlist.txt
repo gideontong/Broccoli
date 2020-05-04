@@ -6,6 +6,7 @@ die
 dog
 fog
 hug
+ice
 kfc
 mug
 nut
@@ -42,6 +43,7 @@ pink
 ramp
 sand
 scar
+seed
 soap
 stab
 tank
@@ -88,11 +90,13 @@ slump
 smile
 sonic
 south
+spoon
 steam
 swamp
 swing
 tails
 toast
+touch
 tower
 tumor
 vomit
@@ -102,14 +106,17 @@ bleach
 border
 bridge
 bumper
+cannon
 casino
 cheese
 chrome
 church
+clover
 cousin
 earwax
 faucet
 hawaii
+island
 israel
 magnet
 medusa
@@ -139,6 +146,7 @@ cowbell
 creeper
 croatia
 diploma
+disease
 dracula
 eyelash
 garbage
@@ -163,6 +171,7 @@ torpedo
 twitter
 ukulele
 whistle
+adorable
 bagpipes
 baguette
 bracelet
@@ -243,6 +252,7 @@ fire hydrant
 jesus christ
 mickey mouse
 mr. meeseeks
+thunderstorm
 homer simpson
 robbie rotton
 swimming pool
