@@ -1,5 +1,6 @@
 arm
 bag
+bmw
 bow
 box
 die
@@ -81,10 +82,12 @@ knife
 llama
 mafia
 night
+opera
 pasta
 pound
 prawn
 river
+santa
 scent
 slump
 smile
@@ -102,6 +105,7 @@ tumor
 vomit
 xerox
 africa
+armpit
 bleach
 border
 bridge
@@ -145,6 +149,7 @@ coconut
 cowbell
 creeper
 croatia
+cupcake
 diploma
 disease
 dracula
@@ -156,6 +161,7 @@ hot dog
 ladybug
 library
 mailbox
+mustard
 notepad
 octagon
 pac man
@@ -165,6 +171,8 @@ present
 reality
 reptile
 romania
+snowman
+spatula
 sweater
 thunder
 torpedo
@@ -202,6 +210,7 @@ duct tape
 excalibur
 eyeshadow
 lady gaga
+microsoft
 minecraft
 motorbike
 nosebleed
@@ -223,7 +232,9 @@ fingernail
 flying pig
 gold chain
 high heels
+hovercraft
 lawn mower
+motorcycle
 piggy bank
 punishment
 rainforest
@@ -239,12 +250,14 @@ coffee shop
 donald duck
 firefighter
 gravedigger
+kim jong-un
 motherboard
 netherlands
 north korea
 observatory
 photo frame
 playstation
+stegosaurus
 temperature
 underweight
 eiffel tower
@@ -260,5 +273,6 @@ tennis racket
 traffic light
 angelina jolie
 captain america
+mark zuckerberg
 winnie the pooh
 statue of liberty
